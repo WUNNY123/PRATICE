@@ -1,0 +1,69 @@
+h1{
+  color: red;
+}
+
+p{
+  color: chocolate;
+}
+
+.Z{
+  color: skyblue;
+}
+
+#carrot{
+  color: purple;
+}
+
+p{
+  font-style: oblique;
+}
+
+p{
+  font-size: 300%
+}
+
+body{
+  font-family:fantasy;
+}
+
+h1{
+  font-size: 500%
+}
+
+a{
+  font-style: italic;
+}
+
+a{
+  color: red;
+}
+
+a{
+  font-size: 300%
+}
+
+html{
+  background-image:url(https://cdn.discordapp.com/attachments/265542875843002388/454056961466564619/pastedImage0.png);
+  background-size: cover;
+  background-repeat:
+}
+
+p{
+  border: 10px solid blue;
+}
+
+a{
+  border-top: 20px dotted red;
+  border-left: 10px solid blue;
+  border-right: 10px solid yellow;
+  border-bottom: 10px solid green;
+}
+
+p{
+  padding:20px;
+}
+
+
+a{
+  margin-left: 60px;
+}
